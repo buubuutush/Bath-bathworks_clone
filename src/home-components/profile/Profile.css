@@ -1,0 +1,105 @@
+.firstimg{
+    margin: auto;
+    width: 70%;
+    height: 110px;
+}
+.tagsignup{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 150px;
+}
+.signupsignin{
+    display: flex;
+    width:90%;
+}
+.signupsignin>:nth-child(2){
+    width: 143px;
+    height: 110%;
+    background-color: #000;
+    /* margin-left: 55px; */
+    /* margin: auto; */
+}
+.signin{
+    display: flex;
+    flex-direction: column;
+    /* margin: auto; */
+    width: 48%;
+    margin-top: 60px;
+}
+
+.signinemail{
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    margin: auto;
+
+    }
+    .signinemail>span{
+        text-align: left;
+    }
+.signinemail>input{
+ width: 250px;
+ height: 40px;
+ border: 1px solid rgb(182, 175, 175);
+}
+.signinpassword{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     margin: auto;
+}
+.signinpassword>input{
+    width: 250px;
+    height: 40px;
+ border: 1px solid rgb(182, 175, 175);
+   }
+   .signinpassword>span{
+    text-align: left;
+}
+.signin>h2{
+    font-size: 26px;
+    font-weight: 400;
+}
+.signup>h3{
+    font-size: 26px;
+    font-weight: 400;
+}
+.signup>:nth-child(4):hover{
+   background-color: white;
+
+} 
+.create{
+    text-align: left;
+    margin-left: 130px;
+    margin-top: 60px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+}
+.formdiv{
+    margin: auto;
+    line-height: 50px;
+}
+.form>*>input{
+   height: 38px;
+   width: 290px;
+   margin: auto;
+}
+.form>*{
+    display: flex;
+    flex-direction: column;
+}
+.form>*>lable{
+    margin-left: -190px;
+}
+
+.signupbuttonx:hover{
+    background: white;
+    border: 0.5px solid black;
+    color: #000;
+}

@@ -1,0 +1,45 @@
+
+.carddiv{
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    
+
+    /* margin: auto; */
+}
+
+.pricediv{
+    display: flex;
+    justify-content: space-around;
+    margin-right: -130px;
+    margin-top: 30px;
+
+}
+.pricediv>:nth-child(1){
+    text-decoration: line-through;
+}
+.productname>h3{
+    font-size: 16px;
+    /* margin: auto; */
+    font-weight: 400;
+    margin-top: 30px;
+    margin-left: 40px;   
+    margin-right: -90px; 
+}
+.producttype{
+    font-size: 14px;
+    margin-right: -100px;
+}
+.carddiv>button{
+    margin-right: -130px;
+    margin-top: 30px;
+    background: #333131;
+    color: white;
+    height: 50px;
+    width: 200px;
+}
+.carddiv>button:hover{
+    background: white;
+    border: 0.5px solid black;
+    color: black;
+}

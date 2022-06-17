@@ -1,0 +1,79 @@
+.maindiv1{
+    display: flex;
+
+}
+.leftdiv{
+    width: 20%;
+    /* line-height: 30px; */
+    height: auto;
+    text-align: start;
+}
+.leftdiv>h2{
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-family: Trade Gothic W01 Light,Arial,sans-serif;
+}
+.leftdiv>ul>li{
+    list-style: none;
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-family: Trade Gothic W01 Light,Arial,sans-serif;
+}
+.leftdiv>ul>li:hover{
+    color:  #005699;
+}
+.rightdiv{
+    width: 80%;
+    height: auto;
+    margin-left: 50px;
+}
+.rightdiv>:nth-child(1){
+    display: flex;
+    justify-content: space-between;
+    font-family: Trade Gothic W01 Light,Arial,sans-serif;
+     margin-top: 10px;
+}
+.rightdiv>:nth-child(3){
+    display: flex;
+    justify-content: space-evenly;
+    /* height: 60px; */
+    margin-top: 40px;
+    background: #d1c6c6;
+    color: rgb(15, 15, 15);
+    padding: 20px;
+    margin-bottom: 50px;
+}
+select{
+    background: #d1c6c6;
+    border: none;
+}
+.rightdiv>div>:nth-child(1){
+    font-size: 19px;
+}
+.rightdiv>:nth-child(2){
+    background-color: black;
+    margin-top: 30px;
+    height: 3px;
+    color: black;
+}
+.filters>*{
+    border: 2px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-family: Trade Gothic W01 Light,Arial,sans-serif;
+    font-size: 14px;
+   
+}
+
+
+.showcard{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 70%;
+    gap: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+}

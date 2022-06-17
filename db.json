@@ -1,0 +1,723 @@
+{
+  "bath":[
+    {
+        "name":"BERRY WAFFLE CONE",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50",
+        "rating":"4.6 (203)",
+        "discountprice":" 14.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a double scoop of the perfect fruity summer treat.",
+        "fragrance2":"Fragrance noes: sweet summer berries, golden waffle cone and creamy vanilla.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwe4e9e1c6/hires/026487363.jpg?sh=471&yocs=o_s_",
+        "id":1,
+        "type":"candle"
+
+    }
+    ,
+    {
+        "name":"FIRECRACKER POP",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.6 (500)",
+        "discountprice":"16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: that fruity red, white and blue popsicle you loved as a kid.",
+        "fragrance2":"Fragrance notes: red cherry, fresh citrus and juicy berry.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":2,
+        "type":"candle"
+
+    },
+    {
+        "name":"BERRY FRUIT PUNCH",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.4 (278)",
+        "discountprice":" 16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: sweet, fruity, bright paradise in a glass.",
+        "fragrance2":"Fragrance notes: tropical berries, sweet pineapple and freshly juiced oranges.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw57695a58/hires/026488808.jpg?sh=471&yocs=o_s_",
+        "id":3,
+        "type":"candle"
+
+    },
+    {
+        "name":"ORANGE PINEAPPLE PUNCH",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.6 (197)",
+        "discountprice":" 14.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a refreshing sunny-day sip, equal parts tangy and sweet.",
+        "fragrance2":"Fragrance notes: tart orange juice, sweet pineapples and vanilla sugar cane.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":4,
+        "type":"candle"
+
+    },
+     {
+        "name":"RAINBOW WAVES",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.5 (216)",
+        "discountprice":"16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a sweet, refreshing celebration of pride, love and equality for all.",
+        "fragrance2":"Fragrance notes: sunny sangria, bright melon and misty waters.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":5,
+        "type":"candle"
+
+    }, 
+    {
+        "name":"WATERMELON LEMONADE",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.8 (277)",
+        "discountprice":"14.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a sweet, tangy refresher.",
+        "fragrance2":"Fragrance notes: watermelon ice, sparkling water and Meyer lemon.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw1fdb888a/hires/026489719.jpg?sh=471&yocs=o_s_",
+        "id":6,
+        "type":"candle"
+
+    }, 
+    {
+        "name":"PARADISE COVE",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.5 (202)",
+        "discountprice":" 16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a fresh, woodsy, coastal hideaway.",
+        "fragrance2":"Fragrance notes: seaside sandalwood, eucalyptus leaves and sweet orange zest.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":7,
+        "type":"candle"
+
+    },
+     {
+        "name":"STRAWBERRY POUND CAKE",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.6 (500)",
+        "discountprice":" 14.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: the sweet, airy treat you love.",
+        "fragrance2":"Fragrance notes: fresh strawberries, golden shortcake and whipped cream.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":8,
+        "type":"candle"
+
+    }, {
+        "name":"CHOCOLATE CHIP COOKIE",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.1 (335)",
+        "discountprice":"16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: fresh-baked, chocolatey deliciousness.",
+        "fragrance2":"Fragrance notes: oven baked cookies, gooey chocolate chips and hint of flakey salt.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":9,
+        "type":"candle"
+
+    },
+     {
+        "name":"FIRECRACKER POP",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50",
+        "rating":"4.6 (500)",
+        "discountprice":"16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: that fruity red, white and blue popsicle you loved as a kid.",
+        "fragrance2":"Fragrance notes: red cherry, fresh citrus and juicy berry.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48c080ae/hires/026489713.jpg?sh=471&yocs=o_s_",
+        "id":10,
+        "type":"candle"
+
+    }, {
+        "name":"WATERMELON LEMONADE",
+        "price":"Single Wick Candle",
+        "lastprice":"$15.50",
+        "rating":"4.7 (500)",
+        "discountprice":" 5.95",
+        "quntitity":"7 oz / 198 g",
+        "fragrance1":"What it smells like: a sweet, tangy refresher.",
+        "fragrance2":"Fragrance notes: watermelon ice, sparkling water and Meyer lemon.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw4a659e8f/hires/026438500.jpg?sh=471&yocs=o_s_",
+        "id":11,
+        "type":"candle"
+
+    },
+    {
+        "name":"ENDLESS WEEKEND",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.6 (500)",
+        "discountprice":" 13.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a sweet, sun-soaked weekend you wish would never end.",
+        "fragrance2":"Fragrance notes: fresh summer mandarin, sun-kissed magnolia and blue coconut water.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw38381574/hires/026412341.jpg?sh=471&yocs=o_s_",
+        "id":12,
+        "type":"candle"
+
+    },
+    {
+        "name":"BLACK CHERRY MERLOT",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a rich, fruity glass of sweet red.",
+        "fragrance2":"Fragrance notes: wild black cherries, velvety red wine, juicy red raspberries and bright plum.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7355095f/hires/026495795.jpg?sh=471&yocs=o_s_",
+        "id":13,
+        "type":"candle"
+
+    },
+    {
+        "name":"EUCALYPTUS RAIN",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.6 (500)",
+        "discountprice":" 12.25",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a fresh, crisp rainfall.",
+        "fragrance2":"Fragrance notes: aromatic eucalyptus, spearmint leaves and fresh spring rain.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw5ed4969e/hires/026495799.jpg?sh=471&yocs=o_s_",
+        "id":14,
+        "type":"candle"
+
+    },
+    {
+        "name":"FRESH LEMON WAVES",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50  ",
+        "rating":"4.6 (500)",
+        "discountprice":"13.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: lounging around on a bright, windy beach day.",
+        "fragrance2":"Fragrance notes: red cherry, fresh citrus and juicy berry.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw7b146e95/hires/026467619.jpg?sh=471&yocs=o_s_",
+        "id":15,
+        "type":"candle"
+
+    },
+    {
+        "name":"SOUTHERN MAGNOLIA",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.4 (500)",
+        "discountprice":" 12.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a fragrant, sunny flower garden.",
+        "fragrance2":"Fragrance notes: white gardenia, fresh magnolia blooms and lemon verbena.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw23b3893e/hires/026470447.jpg?sh=471&yocs=o_s_",
+        "id":16,
+        "type":"candle"
+
+    },
+    {
+        "name":"FIJI WHITE SANDS",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.7 (500)",
+        "discountprice":" 16.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: the sweetest, brightest beach day ever.",
+        "fragrance2":"Fragrance notes: fresh cut sugarcane, white nectarine and sandalwood.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfbb09bb0/hires/026410863.jpg?sh=471&yocs=o_s_",
+        "id":17,
+        "type":"candle"
+
+    },
+    {
+        "name":"WAIKIKI BEACH COCONUT",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.6 (500)",
+        "discountprice":"13.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a sweet, sunny beach vacay.",
+        "fragrance2":"Fragrance notes: tropical white coconut, saltwater breezes and sun-bleached woods.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfb03cd54/hires/026441623.jpg?sh=471&yocs=o_s_",
+        "id":18,
+        "type":"candle"
+
+    },
+    {
+        "name":"FRESH SPRING MORNING",
+        "price":"3-Wick Candle",
+        "lastprice":"$26.50 ",
+        "rating":"4.4 (500)",
+        "discountprice":"  12.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a breath of fresh spring air your home needs.",
+        "fragrance2":"Fragrance notes: spring morning dew, aloe blossoms and creamy orange flower.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwc071d890/hires/026458602.jpg?sh=471&yocs=o_s_",
+        "id":19,
+        "type":"candle"
+
+    },
+    {
+        "name":"SUNNY TROPICAL MANGO",
+        "price":"3-Wick Candle",
+        "lastprice":"$24.50 ",
+        "rating":"4.0 (500)",
+        "discountprice":"12.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: juicy, just-picked fruits from paradise.",
+        "fragrance2":"Fragrance notes: tropical sugared mango, sunny pink pineapple and ripe nectarine.",
+        "overview":{"1":"What it does: delivers an amazing, room-filling fragrance experience.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Patented soy wax blend with natural essential oils",
+                     "4":"Quality lead-free wicks",
+                     "5":"Amazing quality from beginning to end",
+                     "6":"Comes with a decorative lid",
+                     "7":"100% guaranteed"},
+        "usage":"Always trim wick to 1/4 inch before lighting and keep debris out of wax pool. Never burn longer than 4-hour intervals. Set candle on heat-resistant surface and avoid drafts. Always burn within sight and extinguish before leaving room. Don’t burn near things that catch fire. Keep away from children and pets. Don’t extinguish with water. Always let wax harden before relighting, touching or moving.",
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw76a893c1/hires/026499664.jpg?sh=471&yocs=o_s_",
+        "id":20,
+        "type":"candle"
+
+    },
+    {
+        "name":"COCONUT PINEAPPLE",
+        "price":"Fine Fragrance Mist",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"8.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a fruity, creamy smoothie from paradise.",
+        "fragrance2":"Fragrance notes: shaved coconut, fresh pineapple and sugar cane.",
+        "overview":{"1":"What it does: scents your skin with a light-as-air-mist that's super layerable.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"The truest way to fragrance",
+                     "4":"Designed for great coverage",
+                     "5":"Made without parabens",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw48b05490/hires/026477886.jpg?sh=471&yocs=o_s_",
+        "id":21,
+        "type":"mists"
+
+    },
+    {
+        "name":"BAHAMAS PASSIONFRUIT & BANANA FLOWER",
+        "price":"Fine Fragrance Mist",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"4.50",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a fruity island getaway.",
+        "fragrance2":"Fragrance notes: passionfruit, pineapple leaves and banana flower.",
+        "overview":{"1":"What it does: scents your skin with a light-as-air-mist that's super layerable.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"The truest way to fragrance",
+                     "4":"Designed for great coverage",
+                     "5":"Made without parabens",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw703dfdd1/hires/026402518.jpg?sh=471&yocs=o_s_",
+        "id":22,
+        "type":"mists"
+
+    },
+    {
+        "name":"ONE IN A MILLION",
+        "price":"Fine Fragrance Mist",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"4.90",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a modern twist on a timeless white floral—delicate, feminine and romantic.",
+        "fragrance2":"Fragrance notes: jasmine extract, tuberose oil, white gardenia, pink pepper and cashmere musk.",
+        "overview":{"1":"What it does: scents your skin with a light-as-air-mist that's super layerable.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"The truest way to fragrance",
+                     "4":"Designed for great coverage",
+                     "5":"Made without parabens",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwed10cc85/hires/026480833.jpg?sh=471&yocs=o_s_",
+        "id":23,
+        "type":"mists"
+
+    },
+    {
+        "name":"PASTEL SKIES",
+        "price":"Fine Fragrance Mist",
+        "lastprice":"$16.50 ",
+        "rating":"4.1 (500)",
+        "discountprice":"4.12",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: a sweet, dreamy escape.",
+        "fragrance2":"Fragrance notes: soft cloud berries, pink spun sugar and coconut musk.",
+        "overview":{"1":"What it does: scents your skin with a light-as-air-mist that's super layerable.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"The truest way to fragrance",
+                     "4":"Designed for great coverage",
+                     "5":"Made without parabens",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwea83a9c3/hires/026414519.jpg?sh=471&yocs=o_s_",
+        "id":24,
+        "type":"mists"
+
+    },
+    {
+        "name":"SUNSET GLOW",
+        "price":"Fine Fragrance Mist",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"4.65",
+        "quntitity":"14.5 oz / 411 g",
+        "fragrance1":"What it smells like: devouring sweet treats on a warm summer night.",
+        "fragrance2":"Fragrance notes: fresh coconut, sparkling cherry seltzer, dreamy moonflower and caramelized vanilla.",
+        "overview":{"1":"What it does: scents your skin with a light-as-air-mist that's super layerable.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"The truest way to fragrance",
+                     "4":"Designed for great coverage",
+                     "5":"Made without parabens",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw47d412e3/hires/026480804.jpg?sh=471&yocs=o_s_",
+        "id":25,
+        "type":"mists"
+
+    },
+    {
+        "name":"WHITE CITRUS",
+        "price":"Ultimate Hydration Body Cream",
+        "lastprice":"$15.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"3.37",
+        "quntitity":"8 oz / 226 g",
+        "fragrance1":"What it smells like: a sunny Mediterranean citrus grove.",
+        "fragrance2":"Fragrance notes: crisp citrus and water lily.",
+        "overview":{"1":"What it does: leaves your skin feeling soft, smooth and replenished, just like your favorite body cream—but with hyaluronic acid.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Infused with the good stuff (hyaluronic acid and shea butter)",
+                     "4":"24-hour moisture",
+                     "5":"Rich, luxe texture",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw49a2a511/hires/026297833.jpg?sh=471&yocs=o_s_",
+        "id":26,
+        "type":"bodycream"
+
+    },
+    {
+        "name":"PINK CHIFFON",
+        "price":"Ultra Shea Body Cream",
+        "lastprice":"$14.50 ",
+        "rating":"4.5 (500)",
+        "discountprice":"3.62",
+        "quntitity":"8 oz / 226 g",
+        "fragrance1":"What it smells like: the sweet, floral, fragrance expression of feeling pretty in pink.",
+        "fragrance2":"Fragrance notes: sparkling red pear, jasmine petals, tiare flower, vanilla orchid and chiffon musk.",
+        "overview":{"1":"What it does: moisturizes and soothes to leave your skin feeling noticeably softer.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Infused with the good stuff (shea butter, cocoa butter and aloe)",
+                     "4":"Clinically tested for 24 hours of moisture",
+                     "5":"Rich, luxe texture",
+                     "6":"Rich, non-greasy texture",
+                     "7":"Dermatologist tested"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw6f23ade7/hires/026244626.jpg?sh=471&yocs=o_s_",
+        "id":27,
+        "type":"bodycream"
+
+    },
+    {
+        "name":"ONE IN A MILLION",
+        "price":"Ultimate Hydration Body Cream",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"4.97",
+        "quntitity":"8 oz / 226 g",
+        "fragrance1":"What it smells like: a modern twist on a timeless white floral—delicate, feminine and romantic.",
+        "fragrance2":"Fragrance notes: jasmine extract, tuberose oil, white gardenia, pink Pepper and cashmere musk.",
+        "overview":{"1":"What it does: leaves your skin feeling soft, smooth and replenished, just like your favorite body cream—but with hyaluronic acid.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Infused with the good stuff (hyaluronic acid and shea butter)",
+                     "4":"24-hour moisture",
+                     "5":"Rich, luxe texture",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dwefeb7431/hires/026480829.jpg?sh=471&yocs=o_s_",
+        "id":28,
+        "type":"bodycream"
+
+    },
+    {
+        "name":"TWILIGHT WOODS",
+        "price":"Ultimate Hydration Body Cream",
+        "lastprice":"$15.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"3.87",
+        "quntitity":"8 oz / 226 g",
+        "fragrance1":"What it smells like: the warmth and mystery of an enchanted forest.",
+        "fragrance2":"Fragrance notes: lush berry, sparkling mandarin, soft mimosa, apricot nectar and cypress wood.",
+        "overview":{"1":"What it does: leaves your skin feeling soft, smooth and replenished, just like your favorite body cream—but with hyaluronic acid.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Infused with the good stuff (hyaluronic acid and shea butter)",
+                     "4":"24-hour moisture",
+                     "5":"Rich, luxe texture",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw471a37a7/hires/026297856.jpg?sh=471&yocs=o_s_",
+        "id":29,
+        "type":"bodycream"
+
+    },
+    {
+        "name":"STRAWBERRY POUND CAK",
+        "price":"Ultimate Hydration Body Cream",
+        "lastprice":"$16.50 ",
+        "rating":"5.0 (500)",
+        "discountprice":"4.93",
+        "quntitity":"8 oz / 226 g",
+        "fragrance1":"What it smells like: the fruity, airy treat you love.",
+        "fragrance2":"Fragrance notes: fresh strawberries, golden shortcake and whipped cream.",
+        "overview":{"1":"What it does: leaves your skin feeling soft, smooth and replenished, just like your favorite body cream—but with hyaluronic acid.",
+
+                     "2":"Why you'll love it:",
+        
+                     "3":"Infused with the good stuff (hyaluronic acid and shea butter)",
+                     "4":"24-hour moisture",
+                     "5":"Rich, luxe texture",
+                     "6":"Dermatologist tested",
+                     "7":"Bottle made with 50% recycled plastic"},
+        
+        "image":"https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.216/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw597ad2f1/hires/026400338.jpg?sh=471&yocs=o_s_",
+        "id":30,
+        "type":"bodycream"
+
+    }
+  ]
+}
